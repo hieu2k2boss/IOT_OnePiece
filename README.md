@@ -14,6 +14,11 @@ Providing a general overview of the accomplished content:
 - Implementing ESP NOW communication between 4 ESP devices
 - Over-the-Air (OTA) firmware updates
 ## System Construction
+The system structure consists of three components: Cloud, App and Device, as depicted
+in the diagram below:
+
+![System structure](img/Screenshot 2024-04-06 214427.png)
+
 1. Device
    
 2. Clound
